@@ -7,4 +7,4 @@ This repository contains the software for a test bench setup for measuring piezo
 Each folder contains its own readme.md file describing how to work with the software.
 
 Structure of the temperature control project:
-<img src="images/structure.png" alt="structure" style="width:700px;height:500px;">
+<img src="images/structure.png" alt="structure" style="width:700px;height:400px;">
