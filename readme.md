@@ -5,3 +5,6 @@ This repository contains the software for a test bench setup for measuring piezo
 3. The Python based user interface which retrieves the data from the server and configures the test bench can be found in the folder ==PC_Client==
 
 Each folder contains its own readme.md file describing how to work with the software.
+
+Structure of the temperature control project:
+<img src="images/structure.png" alt="structure" style="width:400px;height:500px;">
